@@ -12,11 +12,15 @@ package actividadnetbeansgit;
  */
 public class Clase1 {
 
+    public static void saludar(){
+        System.out.println("Holaaaaa");
+    }
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        saludar();
     }
     
 }
